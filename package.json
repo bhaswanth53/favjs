@@ -1,0 +1,30 @@
+{
+  "name": "favjs",
+  "version": "1.0.0",
+  "description": "Form validation package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaswanth53/favjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "form",
+    "validation",
+    "bhaswanth97",
+    "bhaswanth",
+    "chiruthanuru",
+    "easy",
+    "form",
+    "validation"
+  ],
+  "author": "Bhaswanth Chiruthanuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaswanth53/favjs/issues"
+  },
+  "homepage": "https://github.com/bhaswanth53/favjs#readme"
+}
