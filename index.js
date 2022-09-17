@@ -102,7 +102,7 @@ export default class Fav {
         if(this.errors[elem] == "" || this.errors[elem] == undefined)
             this.errors[elem] = value
     }
-    geterrors() {
+    getErrors() {
         return this.errors
     }
     isSuccess() {
